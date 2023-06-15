@@ -1,0 +1,6 @@
+{
+    "require": {
+        "endroid/qr-code": "^4.8",
+        "phpunit/phpunit": "^9.6"
+    }
+}
